@@ -1071,6 +1071,7 @@ li a {
   .content h3 {
     margin-top: 30px;
     font-size: 10px;
+    padding-top: 30px;
   }
 
   .content .btn1, .content .btn2 {
