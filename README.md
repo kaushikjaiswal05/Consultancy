@@ -4,8 +4,8 @@
 
 ##Technologies Used
 
--HTML
--CSS
+- HTML
+- CSS
 
 ##Live Preview
 - https://kaushikjaiswal05.github.io/Consultancy/
